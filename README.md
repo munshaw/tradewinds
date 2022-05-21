@@ -1,6 +1,10 @@
-## Description
+# Tradewinds
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## External Dependencies
+
+* brew
+* postgresql
+* nodejs
 
 ## Installation
 
